@@ -1,0 +1,109 @@
+Source,Source description,Variable,Description
+R005,Daily Call Volume Data from CIC,Dag,"Day of the week expressed as 3 letter string (i.e. ""sun"", ""mon"")"
+R005,Daily Call Volume Data from CIC,Week,Week in the year (string number)
+R005,Daily Call Volume Data from CIC,Samenv.,Date expressed as dd-mm-yy
+R005,Daily Call Volume Data from CIC,Aangeboden,Call volume (daily)
+R005,Daily Call Volume Data from CIC,Beantwoord,Number of answered calls
+R005,Daily Call Volume Data from CIC,Beantwoord-%,Number of answered calls as a precentage
+R005,Daily Call Volume Data from CIC,Afgebroken,Number of abandoned calls
+R005,Daily Call Volume Data from CIC,Afgebroken-%,Number of abandoned calls as a percentage
+R005,Daily Call Volume Data from CIC,ASA,Average Speed of Answer in minutes
+R005,Daily Call Volume Data from CIC,Serviceniveau,Service level
+R005,Daily Call Volume Data from CIC,Gem. Gespr. Tijd,Mean spoken time
+R005,Daily Call Volume Data from CIC,Gem. In wacht,Mean waiting time
+R005,Daily Call Volume Data from CIC,Gem. ACW,Mean After Call Work
+R005,Daily Call Volume Data from CIC,Gem. Verw,?
+R005,Daily Call Volume Data from CIC,Uitstroom,?
+R005,Daily Call Volume Data from CIC,Aantal in wacht,Number of callers in wait
+R005,Daily Call Volume Data from CIC,ANT-5,?
+R005,Daily Call Volume Data from CIC,ANT-10,?
+R005,Daily Call Volume Data from CIC,ANT-20,?
+R005,Daily Call Volume Data from CIC,ANT-30,?
+R005,Daily Call Volume Data from CIC,ANT-40,?
+R005,Daily Call Volume Data from CIC,ANT-50,?
+R005,Daily Call Volume Data from CIC,AFG-5,?
+R005,Daily Call Volume Data from CIC,AFG-10,?
+R005,Daily Call Volume Data from CIC,AFG-20,?
+R005,Daily Call Volume Data from CIC,AFG-30,?
+R005,Daily Call Volume Data from CIC,AFG-40,?
+R005,Daily Call Volume Data from CIC,AFG-50,?
+R005,Daily Call Volume Data from CIC,ASA,Average Speed of Answer in seconds
+R005,Daily Call Volume Data from CIC,Praten,?
+R005,Daily Call Volume Data from CIC,Wachten,?
+R005,Daily Call Volume Data from CIC,Nawerk,?
+R005,Daily Call Volume Data from CIC,AHT,Average Handlte time
+R005,Daily Call Volume Data from CIC,Norm-AHT,?
+R005,Daily Call Volume Data from CIC,FCST-Totaal,Forecast of the daily call volume
+R005,Daily Call Volume Data from CIC,FCST,Forecast of the required man hours
+R005,Daily Call Volume Data from CIC,Ingezet,Actual allocated man hours
+R004,15 min Call Volume data from CIC,Time,Time slot (every 15 minutes) expressed as hh:mm
+R004,15 min Call Volume data from CIC,Date,Date expressed as dd-mm-yy
+R004,15 min Call Volume data from CIC,Aantal ACD-vermeldingen,Call Volume (per 15 minutes)
+R003,15 min Call Volume data from CIC per workgroup,Time,Time slot (every 15 minutes) expressed as hh:mm
+R003,15 min Call Volume data from CIC per workgroup,Date,Date expressed as dd-mm-yy
+R003,15 min Call Volume data from CIC per workgroup,Aantal ACD-vermeldingen,Call Volume (per 15 minutes)
+R002,GSA planning data for 2016 and 2017,JaarWeek,Year and week number expressed as yyww (i.e. 1601) 
+R002,GSA planning data for 2016 and 2017,Opdrachten.Totaal,Planned number of work orders
+R002,GSA planning data for 2016 and 2017,Opdrachten.Kavel,Out of Scope
+R002,GSA planning data for 2016 and 2017,Opdrachten.Baseload,Out of Scope
+R002,GSA planning data for 2016 and 2017,Opdrachten.Baseload (M&A),Out of Scope
+R002,GSA planning data for 2016 and 2017,Opdrachten.Nieuwbouw,Out of Scope
+R002,GSA planning data for 2016 and 2017,Opdrachten.Herinschakelen,Out of Scope
+R002,GSA planning data for 2016 and 2017,Opdrachten.Energieleveren.nl,Out of Scope
+R002,GSA planning data for 2016 and 2017,Opdrachten.Prio klant,Out of Scope
+R002,GSA planning data for 2016 and 2017,Opdrachten.Multisites,Out of Scope
+R002,GSA planning data for 2016 and 2017,Opdrachten.Steekproef E,Out of Scope
+R002,GSA planning data for 2016 and 2017,Opdrachten.Steekproef G,Out of Scope
+R002,GSA planning data for 2016 and 2017,Opdrachten.Afkeur E,Out of Scope
+R002,GSA planning data for 2016 and 2017,Opdrachten.Afkeur G,Out of Scope
+R002,GSA planning data for 2016 and 2017,Opdrachten.Oude afkeur E,Out of Scope
+R002,GSA planning data for 2016 and 2017,Opdrachten.Oude afkeur G,Out of Scope
+R002,GSA planning data for 2016 and 2017,Opdrachten.Dossiermeter,Out of Scope
+R002,GSA planning data for 2016 and 2017,Opdrachten.Recall,Out of Scope
+R002,GSA planning data for 2016 and 2017,Opdrachten.Storingen Slim (systeemstoringen),Out of Scope
+R002,GSA planning data for 2016 and 2018,Opdrachten.Storingen traditioneel,Out of Scope
+R002,GSA planning data for 2016 and 2019,Opdrachten.VCT,Out of Scope
+R002,GSA planning data for 2016 and 2020,Opdrachten.CMR,Out of Scope
+R002,GSA planning data for 2016 and 2021,Opdrachten.KVO (ijking),Out of Scope
+R002,GSA planning data for 2016 and 2022,Opdrachten.Overig,Out of Scope
+R002,GSA planning data for 2016 and 2023,Opdrachten.Baseload (geen-M&A),Out of Scope
+R002,GSA planning data for 2016 and 2024,Opdrachten.Gassanering,Out of Scope
+R002,GSA planning data for 2016 and 2025,Opdrachten.KCO,Out of Scope
+R002,GSA planning data for 2016 and 2026,Opdrachten.Buiten DSL,Out of Scope
+R002,GSA planning data for 2016 and 2027,Opdrachten.Derdenplaatsingen,Out of Scope
+R002,GSA planning data for 2016 and 2028,Opdrachten.Duo net,Out of Scope
+R002,GSA planning data for 2016 and 2029,Aanbiedingen.Totaal,Actual number of adresses handled (2 work orders can refer to the same customer). In general Aanbod.Totaal<Opdrachten.Totaal
+R002,GSA planning data for 2016 and 2030,Aanbiedingen.Kavel,Out of Scope
+R002,GSA planning data for 2016 and 2031,Aanbiedingen.Baseload,Out of Scope
+R002,GSA planning data for 2016 and 2032,Aanbiedingen.Baseload (M&A),Out of Scope
+R002,GSA planning data for 2016 and 2033,Aanbiedingen.Nieuwbouw,Out of Scope
+R002,GSA planning data for 2016 and 2034,Aanbiedingen.Herinschakelen,Out of Scope
+R002,GSA planning data for 2016 and 2035,Aanbiedingen.Energieleveren.nl,Out of Scope
+R002,GSA planning data for 2016 and 2036,Aanbiedingen.Prio klant,Out of Scope
+R002,GSA planning data for 2016 and 2037,Aanbiedingen.Multisites,Out of Scope
+R002,GSA planning data for 2016 and 2038,Aanbiedingen.Steekproef E,Out of Scope
+R002,GSA planning data for 2016 and 2039,Aanbiedingen.Steekproef G,Out of Scope
+R002,GSA planning data for 2016 and 2040,Aanbiedingen.Afkeur E,Out of Scope
+R002,GSA planning data for 2016 and 2041,Aanbiedingen.Afkeur G,Out of Scope
+R002,GSA planning data for 2016 and 2042,Aanbiedingen.Oude afkeur E,Out of Scope
+R002,GSA planning data for 2016 and 2043,Aanbiedingen.Oude afkeur G,Out of Scope
+R002,GSA planning data for 2016 and 2044,Aanbiedingen.Dossiermeter,Out of Scope
+R002,GSA planning data for 2016 and 2045,Aanbiedingen.Recall,Out of Scope
+R002,GSA planning data for 2016 and 2046,Aanbiedingen.Storingen Slim (systeemstoringen),Out of Scope
+R002,GSA planning data for 2016 and 2047,Aanbiedingen.Storingen traditioneel,Out of Scope
+R002,GSA planning data for 2016 and 2048,Aanbiedingen.VCT,Out of Scope
+R002,GSA planning data for 2016 and 2049,Aanbiedingen.CMR,Out of Scope
+R002,GSA planning data for 2016 and 2050,Aanbiedingen.KVO (ijking),Out of Scope
+R002,GSA planning data for 2016 and 2051,Aanbiedingen.Overig,Out of Scope
+R002,GSA planning data for 2016 and 2052,Aanbiedingen.Baseload (geen-M&A),Out of Scope
+R002,GSA planning data for 2016 and 2053,Aanbiedingen.Gassanering,Out of Scope
+R002,GSA planning data for 2016 and 2054,Aanbiedingen.KCO,Out of Scope
+R002,GSA planning data for 2016 and 2055,Aanbiedingen.Buiten DSL,Out of Scope
+R002,GSA planning data for 2016 and 2056,Aanbiedingen.Derdenplaatsingen,Out of Scope
+R002,GSA planning data for 2016 and 2057,Aanbiedingen.Duo net,Out of Scope
+R002,GSA planning data for 2016 and 2058,Verslimmingen.Totaal,Out of Scope
+R002,GSA planning data for 2016 and 2059,Verslimmingen.Kavel,Out of Scope
+R002,GSA planning data for 2016 and 2060,Verslimmingen.Baseload,Out of Scope
+E001,Bank Holidays 2016-2018,datum,Date of the dutch bank holiday
+E001,Bank Holidays 2016-2018,Feestdag_Omschrijving,Description of the holiday
+E001,Bank Holidays 2016-2018,FeestdagVlag,"Flag of the holiday (1 for holiday, 0 for everything else)"

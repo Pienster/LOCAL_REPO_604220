@@ -1,0 +1,11 @@
+/data/external/
+/data/raw/
+/data/interim/
+/data/processed/
+/reports
+*.md
+*.html
+*.RData
+*.rdb
+*.png
+/cache/
